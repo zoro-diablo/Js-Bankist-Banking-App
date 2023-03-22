@@ -4,7 +4,7 @@ Site Address--->https://zoro-diablo.github.io/Js-Bankist-Banking-App/
 
 <h3>Fully Functional Banking App</h3>
 
-const LoginDetails = {
+LoginDetails = {
   [
     username:js,
     password:1111
